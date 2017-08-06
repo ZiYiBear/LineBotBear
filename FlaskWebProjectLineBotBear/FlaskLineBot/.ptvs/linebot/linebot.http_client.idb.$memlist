@@ -1,0 +1,10 @@
+RequestsHttpClient
+abstractmethod
+HttpResponse
+unicode_literals
+HttpClient
+with_metaclass
+requests
+RequestsHttpResponse
+ABCMeta
+abstractproperty
